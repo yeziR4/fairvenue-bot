@@ -1,0 +1,9 @@
+private/
+logs/
+.venv/
+kit/
+__pycache__/
+*.json.bak
+agent-key*.json
+*TESTNET-agent*.json
+*.sqlite*

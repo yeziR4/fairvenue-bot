@@ -1,0 +1,12 @@
+{
+  "taker_enabled": true,
+  "edge_open": "5",
+  "edge_reduce": "0",
+  "max_position": "0.010",
+  "max_order_qty": "0.005",
+  "exit_quote_enabled": true,
+  "exit_half_spread": "6",
+  "exit_requote_move": "8",
+  "max_commands_per_min": 30,
+  "max_day_loss": "5"
+}
